@@ -1,6 +1,6 @@
 # 🌍 GIS Data Analyzer
 
-A powerful and user-friendly tool for geospatial data analysis and visualization, built with Streamlit. This application enables users to upload datasets, analyze GIS data, and create stunning interactive maps, correlation heatmaps, and perform statistical analyses.
+A powerful and user-friendly tool for geospatial data analysis and visualization, built with Streamlit in Python. This application enables users to upload datasets, analyze GIS data, and create stunning interactive maps, correlation heatmaps, and perform statistical analyses.
 
 ---
 
